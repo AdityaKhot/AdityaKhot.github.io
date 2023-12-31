@@ -276,7 +276,7 @@ header nav .search i {
 
 .portfolio-card {
   position: relative;
-  height: 30vw;
+  height: 20vw;
   width: 30vw;
   background-color: #3d3e42;
   border-radius: 20px;
@@ -288,7 +288,7 @@ header nav .search i {
 }
 
 .portfolio-card img {
-  position: relative;
+  position:relative;
   height: 30vw;
   width: 30vw;
   object-fit: cover;
