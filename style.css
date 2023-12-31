@@ -223,8 +223,8 @@ header nav .search i {
 }
 
 .skill-card {
-  height: 12vw;
-  width: 12vw;
+  height: 15vw;
+  width: 15vw;
   background-color: #3d3e42;
   border-radius: 5px;
   display: flex;
